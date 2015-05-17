@@ -78,6 +78,3 @@ def printPhilosophyPath(start_page):
 			print "Unable to find path to Philosophy"
 
 printPhilosophyPath(sys.argv[1])
-
-
-
